@@ -1,7 +1,7 @@
 # Web-Technologies-CSCI-571
 
 ## Hw 3
-#### [Link to website](https://priya007007.github.io/Web-Technologies-CSCI-571/)
+#### [Link to website](https://priya007007.github.io/Web-Technologies-CSCI-571/HW%203/index.html)
 
 ## Hw 6
 #### [Link to website](https://hw6rengapriyafinalhwp.azurewebsites.net/)
