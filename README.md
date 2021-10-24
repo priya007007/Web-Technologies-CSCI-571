@@ -3,7 +3,6 @@
 ## Hw 3
 #### [Link to website](https://priya007007.github.io/Web-Technologies-CSCI-571/HW%203/index.html)
 #### [Link to GitHub](https://github.com/priya007007/Web-Technologies-CSCI-571)
-#### [Link to GitHub](https://github.com/priya007007/Web-Technologies-CSCI-571)
 
 Description: Create a static Non-responsive webpage. Features include going to specific part of page or a new page.
 Technology Used: HTML, CSS
