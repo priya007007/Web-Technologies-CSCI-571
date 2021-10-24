@@ -5,7 +5,7 @@
 #### [Link to GitHub](https://github.com/priya007007/Web-Technologies-CSCI-571)
 
 Description: Create a static Non-responsive webpage. Features include going to specific part of page or a new page.
-Technology Used: HTML, CSS
+> Technology Used: HTML, CSS
 Also used : debugger tool in chrome to inspect. 
 
 ## Hw 6
@@ -15,7 +15,7 @@ Also used : debugger tool in chrome to inspect.
 
 Description: Built a website that using TMDB API will let you search for movies and TV shows and display the results with the individual details of Movie/TV show displayed. Features include searching for a list of movies, tv show , both movies and tv shows and seeing more information about it using Show More button.
 Deployed on Microsoft Azure.
-Technology used: HTML, CSS, JavaScript, Python, Flask, JSON, Microsoft Azure.
+> Technology used: HTML, CSS, JavaScript, Python, Flask, JSON, Microsoft Azure.
 
 
 
@@ -33,5 +33,5 @@ Deployed the backend server on GCP.
 ## Hw 9 
 #### [Link to GitHub](https://github.com/priya007007/Movies-TV-Android-Application)
 Description: Android application of HW 8. Frontend done using Android Studio. Backend through Node.js hosted on GCP server. 
-Technology used: Node.js, GAE, Android Studio, Shared Preferences, JSON
+> Technology used: Node.js, GAE, Android Studio, Shared Preferences, JSON
 
