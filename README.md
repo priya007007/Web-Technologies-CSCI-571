@@ -33,5 +33,5 @@ Deployed the backend server on GCP.
 ## Hw 9 
 #### [Link to GitHub](https://github.com/priya007007/Movies-TV-Android-Application)
 Description: Android application of HW 8. Frontend done using Android Studio. Backend through Node.js hosted on GCP server. 
-> Technology used: Node.js, GAE, Android Studio, Shared Preferences, JSON
+> Technology used: Java, Node.js, GAE, Android Studio, Shared Preferences, JSON
 
